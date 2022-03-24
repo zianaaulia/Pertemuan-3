@@ -1,4 +1,4 @@
-package id.ac.polbeng.ziana.test_kelas
+package Kelas
 
 /*
 fun main() {
