@@ -1,4 +1,4 @@
-package id.ac.polbeng.ziana.test_kelas
+package Kelas
 
 class PersonB(_firstName: String, _lastName: String, _age: Int) {
     var firstName: String = _firstName
