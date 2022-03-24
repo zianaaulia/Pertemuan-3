@@ -1,4 +1,4 @@
-package id.ac.polbeng.ziana.test_kelas
+package Kelas
 /*
 Untuk lebih ringkas, deklarasi dan inisialisasi propert dapat dilakukan
 hanya di dalam parameter konstruktor utama.
