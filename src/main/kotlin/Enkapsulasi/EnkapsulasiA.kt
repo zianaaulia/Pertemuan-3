@@ -27,5 +27,5 @@ fun main() {
 }
 /*
 Inisialisasi sintaks getter dan setter di Kotlin bersifat opsional, karena secara default
-Kotlin telah men-generate method getter dan setter untuk property yang mutable(var) dan getter property read-only(val).
+Kotlin telah men-generate method getter dan setter untuk property yang mutable(var) dan getter property read-only/immutable(val).
  */
