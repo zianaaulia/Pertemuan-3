@@ -39,3 +39,4 @@ fun main() {
 Mekanisme override bekerja pada properti dengan cara yang sama seperti pada metode.
 Properti yang dideklarasikan pada superclass yang kemudian dideklarasikan ulang pada kelas turunan harus diawali dengan override,
 dan properti tersebut harus memiliki tipe yang kompatibel. Setiap properti yang dideklarasikan dapat ditimpa oleh properti dengan penginisialisasi atau oleh properti dengan metode get.*/
+
