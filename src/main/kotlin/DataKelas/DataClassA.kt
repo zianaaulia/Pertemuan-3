@@ -10,6 +10,7 @@ fun main() {
     println("Student Name is: ${meri.name}")
     println("Student Age is: ${meri.age}")
 }
+
 /*
 Kotlin memiliki solusi yang lebih baik untuk menangani data yaitu dengan menggunakan data
 kelas.
