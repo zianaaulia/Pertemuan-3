@@ -31,5 +31,6 @@ fun main() {
 }
 /*
 Multiple Interface memiliki method yang sama untuk memecahkan
-masalah.
+masalah tersebut pada kelas yang mengimplemntasikan interface tersebut dengan keyword
+super.
  */
