@@ -62,6 +62,7 @@ fun main() {
     motorCycle.sound()
     motorCycle.stop()
 }
+
 /*
 Kelas Abstrak adalah kelas yang tidak bisa di Instansiasi menjadi sebuah objek, akan tetapi ia
 bisa diwariskan ke kelas yang lainnya. Sebuah kelas abstrak biasanya berisi anggota abstrak (abstract member) yang tidak memiliki implementasi dan harus di override didalam subclass-nya.
