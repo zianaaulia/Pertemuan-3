@@ -29,3 +29,7 @@ fun main() {
     obj.funcX()
     obj.funcY()
 }
+/*
+Multiple Interface memiliki method yang sama untuk memecahkan
+masalah.
+ */
